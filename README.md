@@ -2,7 +2,7 @@
 
  This is an example of what a final project should look like.
 
-![add image descrition here](direct image link here)
+![add image descrition here] \([This is a sample Image for uploading to GitHub](https://imgur.com/wLF5Lft)
 
 ## The Algorithm
 
